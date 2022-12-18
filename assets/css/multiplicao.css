@@ -1,0 +1,28 @@
+main {
+  background: #ccc;
+  padding: 15px;
+  border-radius: 5px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+input {
+  border: 1px solid orange;
+  border-radius: 5px;
+  padding: 10px 3px;
+  text-align: center;
+}
+
+#acoes {
+  background-color: #f2f2f2;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+#acoes img {
+  background-color: orange;
+  margin: 10px;
+  cursor: pointer;
+}
